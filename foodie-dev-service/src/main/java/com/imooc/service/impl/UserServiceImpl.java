@@ -30,7 +30,7 @@ public class UserServiceImpl implements UserService {
     @Autowired
    public Sid sid;
 
-    private static final String USER_FACE = "C:/Users/Public/Pictures/Sample Pictures/qie.jpg";
+    private static final String USER_FACE = "D:/img/1.jpg";
 
     @Transactional(propagation = Propagation.SUPPORTS)
     @Override
@@ -70,6 +70,16 @@ public class UserServiceImpl implements UserService {
 
     @Override
     public Users queryUserForLogin(String username, String password) {
-        return null;
+
+        Example userExample = new Example(Users.class);
+        Example.Criteria userCriteria = userExample.createCriteria();
+
+        userCriteria.andEqualTo("username", username);
+        userCriteria.andEqualTo("password", password);
+
+        Users result = usersMapper.selectOneByExample(userExample);
+
+        return result;
+
     }
 }
