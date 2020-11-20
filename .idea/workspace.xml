@@ -2,7 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c499237-927e-469c-8e6c-958299e1fdc4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-dev-api/src/main/java/com/imooc/controller/ItemsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/imooc/pojo/vo/ItemInfoVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/imooc/pojo/vo/NewItemsVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/imooc/pojo/vo/SimpleItemVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-dev-service/src/main/java/com/imooc/service/ItemService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-dev-service/src/main/java/com/imooc/service/impl/ItemServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-dev-api/src/main/java/com/imooc/controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-api/src/main/java/com/imooc/controller/IndexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-dev-api/target/classes/com/imooc/controller/IndexController.class" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-api/target/classes/com/imooc/controller/IndexController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-dev-api/target/foodie-dev-api-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-api/target/foodie-dev-api-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-dev-common/target/foodie-dev-common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-common/target/foodie-dev-common-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-dev-mapper/src/main/java/com/imooc/mapper/CategoryCustomMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-mapper/src/main/java/com/imooc/mapper/CategoryCustomMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-dev-mapper/src/main/resources/mapper/CategoryMapperCustom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-mapper/src/main/resources/mapper/CategoryMapperCustom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-dev-mapper/target/classes/com/imooc/mapper/CategoryCustomMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-mapper/target/classes/com/imooc/mapper/CategoryCustomMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-dev-mapper/target/classes/mapper/CategoryMapperCustom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-mapper/target/classes/mapper/CategoryMapperCustom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-dev-mapper/target/foodie-dev-mapper-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-mapper/target/foodie-dev-mapper-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-dev-mapper/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-mapper/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-dev-pojo/target/foodie-dev-pojo-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-pojo/target/foodie-dev-pojo-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-dev-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-dev-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-dev-service/src/main/java/com/imooc/service/CategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-service/src/main/java/com/imooc/service/CategoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-dev-service/src/main/java/com/imooc/service/impl/CategoryServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-service/src/main/java/com/imooc/service/impl/CategoryServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-dev-service/target/classes/com/imooc/service/CategoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-service/target/classes/com/imooc/service/CategoryService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-dev-service/target/classes/com/imooc/service/impl/CategoryServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-service/target/classes/com/imooc/service/impl/CategoryServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-dev-service/target/foodie-dev-service-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-service/target/foodie-dev-service-1.0-SNAPSHOT.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +93,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/foodie-dev-mapper/src/main/resources/mapper" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/imooc/pojo/vo" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -78,22 +103,22 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="com.imooc.service.impl" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.imooc.pojo.vo" />
-      <recent name="com.imooc.mapper" />
-      <recent name="com.imooc.service" />
-      <recent name="com.imooc.enums" />
-      <recent name="com.imooc.controller" />
-    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.imooc.pojo.vo" />
+      <recent name="com.imooc.controller" />
+      <recent name="com.imooc.service" />
+      <recent name="com.imooc.service.impl" />
+      <recent name="com.imooc.mapper" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\github\workspance\lvstuday\foodie-dev-pojo\src\main\java\com\imooc\pojo\vo" />
       <recent name="E:\github\workspance\lvstuday\foodie-dev-mapper\src\main\resources\mapper" />
       <recent name="E:\github\workspance\lvstuday\foodie-dev-common\src\main\java\com\imooc\util" />
       <recent name="E:\github\workspance\lvstuday\foodie-dev-api\src\main\java\com\imooc\org\n3r" />
       <recent name="E:\github\workspance\lvstuday\foodie-dev-mapper\src\main\java\com\my" />
-      <recent name="E:\github\workspance\lvstuday\foodie-dev-service\src\main\java" />
     </key>
   </component>
   <component name="RunManager" selected="Spring Boot.Application">
@@ -188,7 +213,8 @@
       <workItem from="1605659426796" duration="122000" />
       <workItem from="1605688340009" duration="4661000" />
       <workItem from="1605746004242" duration="4487000" />
-      <workItem from="1605785568070" duration="845000" />
+      <workItem from="1605785568070" duration="2461000" />
+      <workItem from="1605832787804" duration="7787000" />
     </task>
     <servers />
   </component>
@@ -204,10 +230,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1605258955782" />
-    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1605604387709">
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1605856466051">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1605604387709" />
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1605856466051" />
     <state x="412" y="145" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1605258953020">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -216,71 +242,75 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="316" y="288" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1605321809139" />
+    <state width="400" height="438" key="DebuggerActiveHint" timestamp="1605857145020">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="400" height="438" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1605857145020" />
     <state x="449" y="103" key="FileChooserDialogImpl" timestamp="1605579457040">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1604839271169" />
     <state x="449" y="103" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605579457040" />
-    <state width="1322" height="2" key="GridCell.Tab.0.bottom" timestamp="1605767155454">
+    <state width="1322" height="177" key="GridCell.Tab.0.bottom" timestamp="1605858279908">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="7" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1604841032234" />
-    <state width="1322" height="2" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605767155454" />
-    <state width="1322" height="2" key="GridCell.Tab.0.center" timestamp="1605767155454">
+    <state width="1322" height="177" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605858279908" />
+    <state width="1322" height="177" key="GridCell.Tab.0.center" timestamp="1605858279907">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="7" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1604841032233" />
-    <state width="1322" height="2" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605767155454" />
-    <state width="1322" height="2" key="GridCell.Tab.0.left" timestamp="1605767155454">
+    <state width="1322" height="177" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605858279907" />
+    <state width="1322" height="177" key="GridCell.Tab.0.left" timestamp="1605858279907">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="7" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1604841032233" />
-    <state width="1322" height="2" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605767155454" />
-    <state width="1322" height="2" key="GridCell.Tab.0.right" timestamp="1605767155454">
+    <state width="1322" height="177" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605858279907" />
+    <state width="1322" height="177" key="GridCell.Tab.0.right" timestamp="1605858279908">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="7" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1604841032233" />
-    <state width="1322" height="2" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605767155454" />
-    <state width="1322" height="2" key="GridCell.Tab.1.bottom" timestamp="1605767155455">
+    <state width="1322" height="177" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605858279908" />
+    <state width="1322" height="177" key="GridCell.Tab.1.bottom" timestamp="1605858279703">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="7" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1604841031913" />
-    <state width="1322" height="2" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605767155455" />
-    <state width="1322" height="2" key="GridCell.Tab.1.center" timestamp="1605767155455">
+    <state width="1322" height="177" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605858279703" />
+    <state width="1322" height="177" key="GridCell.Tab.1.center" timestamp="1605858279703">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="7" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1604841031912" />
-    <state width="1322" height="2" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1605767155455" />
-    <state width="1322" height="2" key="GridCell.Tab.1.left" timestamp="1605767155455">
+    <state width="1322" height="177" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1605858279703" />
+    <state width="1322" height="177" key="GridCell.Tab.1.left" timestamp="1605858279703">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="7" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1604841031912" />
-    <state width="1322" height="2" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1605767155455" />
-    <state width="1322" height="2" key="GridCell.Tab.1.right" timestamp="1605767155455">
+    <state width="1322" height="177" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1605858279703" />
+    <state width="1322" height="177" key="GridCell.Tab.1.right" timestamp="1605858279703">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="7" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1604841031912" />
-    <state width="1322" height="2" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1605767155455" />
-    <state width="1322" height="2" key="GridCell.Tab.2.bottom" timestamp="1605767155455">
+    <state width="1322" height="177" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1605858279703" />
+    <state width="1322" height="177" key="GridCell.Tab.2.bottom" timestamp="1605858279703">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="7" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1604841031913" />
-    <state width="1322" height="2" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605767155455" />
-    <state width="1322" height="2" key="GridCell.Tab.2.center" timestamp="1605767155455">
+    <state width="1322" height="177" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605858279703" />
+    <state width="1322" height="177" key="GridCell.Tab.2.center" timestamp="1605858279703">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="7" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1604841031913" />
-    <state width="1322" height="2" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1605767155455" />
-    <state width="1322" height="2" key="GridCell.Tab.2.left" timestamp="1605767155455">
+    <state width="1322" height="177" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1605858279703" />
+    <state width="1322" height="177" key="GridCell.Tab.2.left" timestamp="1605858279703">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="7" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1604841031913" />
-    <state width="1322" height="2" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1605767155455" />
-    <state width="1322" height="2" key="GridCell.Tab.2.right" timestamp="1605767155455">
+    <state width="1322" height="177" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1605858279703" />
+    <state width="1322" height="177" key="GridCell.Tab.2.right" timestamp="1605858279703">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="7" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1604841031913" />
-    <state width="1322" height="2" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1605767155455" />
+    <state width="1322" height="177" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1605858279703" />
     <state x="213" y="18" key="Maven.ArtifactSearchDialog" timestamp="1605258442496">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
