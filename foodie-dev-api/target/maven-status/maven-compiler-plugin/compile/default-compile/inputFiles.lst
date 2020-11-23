@@ -1,6 +1,9 @@
-E:\github\workspance\lvstuday\foodie-dev-api\src\main\java\com\imooc\Application.java
-E:\github\workspance\lvstuday\foodie-dev-api\src\main\java\com\imooc\config\Swagger2.java
-E:\github\workspance\lvstuday\foodie-dev-api\src\main\java\com\imooc\aspect\ServeLogAspect.java
-E:\github\workspance\lvstuday\foodie-dev-api\src\main\java\com\imooc\config\CorsConfig.java
-E:\github\workspance\lvstuday\foodie-dev-api\src\main\java\com\imooc\controller\IndexController.java
-E:\github\workspance\lvstuday\foodie-dev-api\src\main\java\com\imooc\controller\PassportController.java
+D:\workspace\ideimooc\foodie-dev\foodie-dev-api\src\main\java\com\imooc\aspect\ServeLogAspect.java
+D:\workspace\ideimooc\foodie-dev\foodie-dev-api\src\main\java\com\imooc\controller\ShopcatController.java
+D:\workspace\ideimooc\foodie-dev\foodie-dev-api\src\main\java\com\imooc\config\Swagger2.java
+D:\workspace\ideimooc\foodie-dev\foodie-dev-api\src\main\java\com\imooc\Application.java
+D:\workspace\ideimooc\foodie-dev\foodie-dev-api\src\main\java\com\imooc\controller\IndexController.java
+D:\workspace\ideimooc\foodie-dev\foodie-dev-api\src\main\java\com\imooc\controller\ItemsController.java
+D:\workspace\ideimooc\foodie-dev\foodie-dev-api\src\main\java\com\imooc\config\CorsConfig.java
+D:\workspace\ideimooc\foodie-dev\foodie-dev-api\src\main\java\com\imooc\controller\BaseController.java
+D:\workspace\ideimooc\foodie-dev\foodie-dev-api\src\main\java\com\imooc\controller\PassportController.java
